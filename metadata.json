@@ -1,0 +1,8 @@
+
+{
+  "name": "DL Cosmetic by Yuu Lin",
+  "description": "A high-end premium skincare e-commerce experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
